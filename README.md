@@ -81,7 +81,7 @@ sns.regplot(x='Total_Marketing_Spend', y='Total_Marketing_ROI', data=data)
 > Feel free to fork this repo, add enhancements, or create a pull request. Feedback is always welcome!
 
 
-> Made with ❤️ by Swaroop Gaddam  
-📧 swaroop.gaddam01@gmail.com  
-🌐 https://www.linkedin.com/in/swaroop-gaddam/
-
+### 👨‍💻 Author  
+**Swaroop Gaddam**  
+📧 [swaroop.gaddam01@gmail.com](mailto:swaroop.gaddam01@gmail.com)  
+🌐 [LinkedIn – swaroop-gaddam](https://www.linkedin.com/in/swaroop-gaddam/)  
