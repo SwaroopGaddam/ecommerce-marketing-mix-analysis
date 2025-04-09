@@ -3,7 +3,17 @@
 This project runs a full-cycle Marketing Mix Modeling for an e-commerce business using synthetic data covering 3 years of monthly marketing and sales metrics. It includes data exploration, feature engineering, model building, multicollinearity analysis, and actionable business insights.
 
 ---
+## 🎯 Motivation
 
+I regularly work on **Marketing Mix Modeling (MMM)** using Excel in my current role. While Excel provides flexibility for manual analysis, I wanted to explore how **Python** could scale this process.
+
+This project was built as a learning experience to:
+- Recreate a typical MMM workflow using Python.
+- Practice working with synthetic marketing data.
+- Explore linear regression for interpreting marketing channel impact.
+
+---
+  
 ##  Overview
 
 -  **Dataset**: 3 years (36 months) of monthly e-commerce marketing and sales data
